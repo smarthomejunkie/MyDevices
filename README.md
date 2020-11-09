@@ -6,7 +6,7 @@ A list of all the Smart Home devices that I use. This list is not complete yet. 
 # Lights
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_9wluVL)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
-* 
+* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
 
 # Sensors
 * [Aqara Temperaturer Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
@@ -30,3 +30,9 @@ A list of all the Smart Home devices that I use. This list is not complete yet. 
 
 # LED drivers
 * [LED dimmable driver](https://s.click.aliexpress.com/e/_ANlalb)
+* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
+
+# Miscellaneous
+[12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_dWXY506)
+
+
