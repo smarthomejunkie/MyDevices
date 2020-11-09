@@ -1,5 +1,5 @@
 # MyDevices
-A list of all the Smart Home devices that I use. This list is not complete yet. Check back regularly to see what devices I use.
+Here's the list of all the Smart Home devices that I use. This list is not complete yet. Check back regularly to see what devices I use.
 
 ### ***Click on the links to go to the specific webshop***
 
