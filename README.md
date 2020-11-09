@@ -9,7 +9,7 @@ A list of all the Smart Home devices that I use. This list is not complete yet. 
 * [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
 
 # Sensors
-* [Aqara Temperaturer Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
+* [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
