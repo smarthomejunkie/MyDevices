@@ -55,6 +55,6 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
 
 # Miscellaneous
-[12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_dWXY506)
+* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_dWXY506)
 
 
