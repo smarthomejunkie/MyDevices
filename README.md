@@ -26,7 +26,7 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [Crowstone Built-in One](https://shop.crownstone.rocks/products/extension-kit-1-unit-crownstone-built-in-one)
 * [Shelly 2.5 Double Relay Switch](https://amzn.to/35eXgaQ)
 * [Curtain/Cover switch](https://s.click.aliexpress.com/e/_A3RoUP)
-[Tuya Smart Breaker Switch](https://s.click.aliexpress.com/e/_99XdYT)
+* [Tuya Smart Breaker Switch](https://s.click.aliexpress.com/e/_99XdYT)
 
 # Bridges / Hubs
 * [Conbee 2 Zigbee stick](https://amzn.to/3llcm4s)
