@@ -7,6 +7,10 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
 * [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
+* [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
+* [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
+* [Philips Hue A19 Smart Bulb](https://amzn.to/2JLJdRO)
+
 
 # Sensors
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
@@ -14,6 +18,8 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
+* [Tradfri Wireless motion sensor](https://www.ikea.com/nl/en/p/tradfri-wireless-motion-sensor-white-70429913/)
+* [Philips Motion Sensor](https://amzn.to/32uFkrc)
 
 # Switches
 * [Smart Plug](https://s.click.aliexpress.com/e/_ArlTn7)
