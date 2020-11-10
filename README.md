@@ -28,11 +28,14 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [Curtain/Cover switch](https://s.click.aliexpress.com/e/_A3RoUP)
 * [Tuya Smart Breaker Switch](https://s.click.aliexpress.com/e/_99XdYT)
 
+# Cameras
+* [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
+
 # Bridges / Hubs
 * [Conbee 2 Zigbee stick](https://amzn.to/3llcm4s)
 
-# Cameras
-* [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
+# Router
+* [TP-Link Deco M9 Router](https://amzn.to/2UflI5A)
 
 # Processors
 * [Wemos D1 Mini](https://s.click.aliexpress.com/e/_dUuzg4Q)
