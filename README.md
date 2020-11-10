@@ -27,6 +27,9 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 # Bridges / Hubs
 * [Conbee 2 Zigbee stick](https://amzn.to/3llcm4s)
 
+# Cameras
+* [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
+
 # Processors
 * [Wemos D1 Mini](https://s.click.aliexpress.com/e/_dUuzg4Q)
 
