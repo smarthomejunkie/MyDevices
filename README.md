@@ -16,7 +16,7 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
-* [Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
+* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
 * [Tradfri Wireless motion sensor](https://www.ikea.com/nl/en/p/tradfri-wireless-motion-sensor-white-70429913/)
 * [Philips Motion Sensor](https://amzn.to/32uFkrc)
