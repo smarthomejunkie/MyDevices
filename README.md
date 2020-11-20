@@ -35,6 +35,9 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [Honeywell Evohome Starterkit](https://amzn.to/38s55fh)
 * [Honeywell Evohome Radiator Valves](https://amzn.to/2U9LwAh)
 
+# Vacuum cleaners
+* [Roborock S5 Max](https://s.click.aliexpress.com/e/_A9WSGQ)
+
 # Bridges / Hubs
 * [Conbee 2 Zigbee stick](https://amzn.to/3llcm4s)
 
