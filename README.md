@@ -14,6 +14,7 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 # Sensors
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
+* [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
