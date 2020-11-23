@@ -7,6 +7,7 @@ Here's the list of all the Smart Home devices that I use. This list is not compl
 * [Raspberry Pi 4b - 4Gb](https://amzn.to/3lWaP59)
 * [SSD WD Green 120Gb](https://amzn.to/2UUbkk2)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
+
 # Lights
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
