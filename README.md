@@ -30,6 +30,10 @@ Here's the list of all the Smart Home devices that I use.
 ## Cameras
 * [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
 
+## Heating
+* [Honeywell Evohome Starterkit](https://amzn.to/38s55fh)
+* [Honeywell Evohome Radiator Valves](https://amzn.to/2U9LwAh)
+
 ## Bridges / Hubs
 * [Conbee 2 Zigbee stick](https://amzn.to/3llcm4s)
 
