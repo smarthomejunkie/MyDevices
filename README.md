@@ -20,7 +20,7 @@ Here's the list of all the Smart Home devices that I use.
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
 * [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
-* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
+* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_ArcaDE)
 
 ## Switches
 * [Smart Plug with power measurement (Tasmota flashable at the time when I bought these)](https://amzn.to/39l5Zej)
@@ -61,7 +61,7 @@ Here's the list of all the Smart Home devices that I use.
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
 * [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
-* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_9v89MV)
+* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_ArcaDE)
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
 * [Tradfri Wireless motion sensor](https://www.ikea.com/nl/en/p/tradfri-wireless-motion-sensor-white-70429913/)
 * [Philips Motion Sensor](https://amzn.to/32uFkrc)
