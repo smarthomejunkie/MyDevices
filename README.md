@@ -10,6 +10,9 @@ Here's the list of all the Smart Home devices that I use.
 * [SSD WD Green 120Gb](https://amzn.to/2UUbkk2)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
 
+## Speakers
+* [Google Nest Mini](https://www.50five.nl/google-nest-mini-wit.html)
+* [Google Nest Hub](https://www.50five.nl/google-nest-hub-charcoal.html)
 ## Lights
 * [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
