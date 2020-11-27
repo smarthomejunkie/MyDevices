@@ -13,6 +13,7 @@ Here's the list of all the Smart Home devices that I use.
 ## Speakers
 * [Google Nest Mini](https://www.50five.nl/google-nest-mini-wit.html)
 * [Google Nest Hub](https://www.50five.nl/google-nest-hub-charcoal.html)
+
 ## Lights
 * [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
