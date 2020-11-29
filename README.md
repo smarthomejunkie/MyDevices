@@ -1,7 +1,7 @@
 # My Devices
 Here's the list of all the Smart Home devices that I use.
 
-Visit my Youtube channel: [Smart Home JUnkie](https://www.youtube.com/c/SmartHomeJunkie)
+Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHomeJunkie)
 
 ***Click on the links to go to the specific webshop***
 
