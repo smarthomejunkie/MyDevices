@@ -47,6 +47,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
 
 <hr>
+
 # List of all the devices that I use(d) and tested:
 
 ## Home Assistant Server
