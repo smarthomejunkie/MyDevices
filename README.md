@@ -46,6 +46,9 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 ## LED drivers
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
 
+## Smart meter cable
+* [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
+
 <hr>
 
 # List of all the devices that I use(d) and tested:
@@ -112,7 +115,11 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [LED dimmable driver](https://s.click.aliexpress.com/e/_ANlalb)
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
 
+## Smart meter cable
+* [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
+
 ## Miscellaneous
 * [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_dWXY506)
+
 
 
