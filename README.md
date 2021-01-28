@@ -8,7 +8,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 # My recommendations for an intelligent home:
 
 ## Home Assistant Server
-* [Raspberry Pi 4b - 4Gb](https://amzn.to/2Mo9p6k)
+* [Raspberry Pi 4b - 4Gb](https://s.click.aliexpress.com/e/_dWsdvaW)
 * [SSD WD Green 120Gb](https://amzn.to/3n7T42h)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
 
