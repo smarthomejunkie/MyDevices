@@ -67,8 +67,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
 * [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
 * [Philips Hue A19 Smart Bulb](https://amzn.to/3n6PfdO)
-* [Lidl Moodlight](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSmart-Home%2Fh333930)
-* [Lidl A19 Smart Bulb](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSmart-Home%2Fh333930)
+* [Lidl Moodlight](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-sfeerverlichting-Zigbee-Smart-Home%2Fp100317586)
+* [Lidl A19 Smart Bulb](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-lamp-Zigbee-Smart-Home%2Fp100306622)
 
 ## Sensors
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
@@ -79,7 +79,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
 * [Tradfri Wireless motion sensor](https://www.ikea.com/nl/en/p/tradfri-wireless-motion-sensor-white-70429913/)
 * [Philips Motion Sensor](https://amzn.to/389jRHs)
-* [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSmart-Home%2Fh333930)
+* [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
 
 ## Switches
 * [Smart Plug with power measurement (Tasmota flashable at the time when I bought these)](https://amzn.to/3918JeH)
