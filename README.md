@@ -3,6 +3,7 @@ Here's the list of all the Smart Home devices that I use.
 
 Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHomeJunkie)
 
+You can support me by buying me a coffee:
 <a href="https://www.buymeacoffee.com/smarthomejunkie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="51" width="217" ></a>
 
 ***Click on the links to go to the specific webshop***
