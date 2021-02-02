@@ -45,7 +45,7 @@ You can support me by buying me a coffee:
 * [Honeywell Evohome Radiator Valves](https://amzn.to/38a23fa)
 
 ## Bridges / Hubs
-* [Conbee 2 Zigbee stick](https://amzn.to/3biYeGL)
+* [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 
 ## LED drivers
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
@@ -103,7 +103,7 @@ You can support me by buying me a coffee:
 * [Roborock S5 Max](https://s.click.aliexpress.com/e/_A9WSGQ)
 
 ## Bridges / Hubs
-* [Conbee 2 Zigbee stick](https://amzn.to/3biYeGL)
+* [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 
 ## Trackers
 [Tile Mate](https://amzn.to/38a2TZm)
