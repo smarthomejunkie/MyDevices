@@ -126,7 +126,7 @@ You can support me by buying me a coffee:
 * [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
 
 ## Miscellaneous
-* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_dWXY506)
+* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_9jx9F4)
 
 
 
