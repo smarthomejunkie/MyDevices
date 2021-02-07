@@ -48,7 +48,7 @@ You can support me by buying me a coffee:
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 
 ## LED drivers
-* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
+* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_9uNBRM)
 
 ## Smart meter cable
 * [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
