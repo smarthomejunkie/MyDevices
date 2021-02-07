@@ -21,7 +21,7 @@ You can support me by buying me a coffee:
 * [Google Nest Hub](https://www.alternate.nl/tt/?tt=904_12_396911_&r=%2FGoogle%2FNest-Hub-luidspreker%2Fhtml%2Fproduct%2F1564155)
 
 ## Lights
-* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
+* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Arb0Ke)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
 * [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
 * [Philips Hue A19 Smart Bulb](https://amzn.to/3n6PfdO)
