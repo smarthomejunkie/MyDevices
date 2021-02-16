@@ -21,7 +21,7 @@ You can support me by buying me a coffee:
 * [Google Nest Hub](https://www.alternate.nl/tt/?tt=904_12_396911_&r=%2FGoogle%2FNest-Hub-luidspreker%2Fhtml%2Fproduct%2F1564155)
 
 ## Lights
-* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Arb0Ke)
+* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Am4Seo)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
 * [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
 * [Philips Hue A19 Smart Bulb](https://amzn.to/3n6PfdO)
@@ -48,7 +48,7 @@ You can support me by buying me a coffee:
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 
 ## LED drivers
-* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_9uNBRM)
+* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_AOEKhe)
 
 ## Smart meter cable
 * [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
@@ -65,7 +65,7 @@ You can support me by buying me a coffee:
 ## Lights
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
-* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_dU6gK9g)
+* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Am4Seo)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
 * [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
 * [Philips Hue A19 Smart Bulb](https://amzn.to/3n6PfdO)
@@ -120,13 +120,13 @@ You can support me by buying me a coffee:
 
 ## LED drivers
 * [LED dimmable driver](https://s.click.aliexpress.com/e/_ANlalb)
-* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_d728ZFg)
+* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_AOEKhe)
 
 ## Smart meter cable
 * [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
 
 ## Miscellaneous
-* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_9jx9F4)
+* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_98xhFe)
 
 
 
