@@ -33,7 +33,7 @@ You can support me by buying me a coffee:
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_ArcaDE)
 
 ## Switches
-* [Smart Plug with power measurement (Tasmota flashable at the time when I bought these)](https://amzn.to/3918JeH)
+* [Blitzwolf Smart Plug with energy metering](https://s.click.aliexpress.com/e/_9AOkLL)
 * [Shelly 2.5 Double Relay Switch](https://amzn.to/3bcu3Rv)
 * [Shelly Dimmer 2](https://amzn.to/3pVoc83)
 
