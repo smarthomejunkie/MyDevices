@@ -37,6 +37,9 @@ You can support me by buying me a coffee:
 * [Shelly 2.5 Double Relay Switch](https://amzn.to/3bcu3Rv)
 * [Shelly Dimmer 2](https://amzn.to/3pVoc83)
 
+## Curtain Robot Motor
+* [Zemismart Super Curtain Robot Motor](https://s.click.aliexpress.com/e/_Dd5REeL)
+
 ## Cameras
 * [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
 
