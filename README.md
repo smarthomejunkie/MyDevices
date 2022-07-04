@@ -48,6 +48,7 @@ You can support me by buying me a coffee:
 * [Honeywell Evohome Radiator Valves](https://amzn.to/38a23fa)
 
 ## Bridges / Hubs
+* [Sonoff Zigbee 3.0 USB Dongle](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/)
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 
 ## LED drivers
