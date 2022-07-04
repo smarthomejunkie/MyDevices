@@ -39,6 +39,7 @@ You can support me by buying me a coffee:
 
 ## Curtain Robot Motor
 * [Zemismart Super Curtain Robot Motor](https://s.click.aliexpress.com/e/_Dd5REeL)
+* [Zemismart Roller Blind Curtain motor](https://s.click.aliexpress.com/e/_DmpRGkR)
 
 ## Cameras
 * [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
