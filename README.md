@@ -28,7 +28,7 @@ You can support me by buying me a coffee:
 
 ## Sensors
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
-* [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
+* [Aqara Door Sensor](https://s.click.aliexpress.com/e/_DkQdRjN)
 * [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_ArcaDE)
 
