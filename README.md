@@ -30,7 +30,7 @@ You can support me by buying me a coffee:
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_DkQdRjN)
 * [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
-* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_ArcaDE)
+* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
 
 ## Switches
 * [Blitzwolf Smart Plug with energy metering](https://s.click.aliexpress.com/e/_9AOkLL)
