@@ -36,6 +36,7 @@ You can support me by buying me a coffee:
 * [Blitzwolf Smart Plug with energy metering](https://s.click.aliexpress.com/e/_9AOkLL)
 * [Shelly 2.5 Double Relay Switch](https://amzn.to/3bcu3Rv)
 * [Shelly Dimmer 2](https://amzn.to/3pVoc83)
+* [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 
 ## Curtain Robot Motor
 * [Zemismart Super Curtain Robot Motor](https://s.click.aliexpress.com/e/_Dd5REeL)
