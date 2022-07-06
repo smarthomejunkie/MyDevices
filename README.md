@@ -12,58 +12,6 @@ You can support me by buying me a coffee:
 # My recommendations for an intelligent home:
 
 ## Home Assistant Server
-* [Raspberry Pi 4b - 4Gb](https://s.click.aliexpress.com/e/_dWsdvaW)
-* [SSD WD Green 120Gb](https://amzn.to/3n7T42h)
-* [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
-
-## Speakers
-* [Google Nest Mini](https://www.alternate.nl/tt/?tt=904_12_396911_&r=%2FGoogle%2FNest-Mini-Houtskool-luidspreker%2Fhtml%2Fproduct%2F1588528)
-* [Google Nest Hub](https://www.alternate.nl/tt/?tt=904_12_396911_&r=%2FGoogle%2FNest-Hub-luidspreker%2Fhtml%2Fproduct%2F1564155)
-
-## Lights
-* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Am4Seo)
-* [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
-* [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
-* [Philips Hue A19 Smart Bulb](https://amzn.to/3n6PfdO)
-
-## Sensors
-* [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
-* [Aqara Door Sensor](https://s.click.aliexpress.com/e/_DkQdRjN)
-* [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
-* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
-
-## Switches
-* [Blitzwolf Smart Plug with energy metering](https://s.click.aliexpress.com/e/_9AOkLL)
-* [Shelly 2.5 Double Relay Switch](https://amzn.to/3bcu3Rv)
-* [Shelly Dimmer 2](https://amzn.to/3pVoc83)
-* [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
-
-## Curtain Robot Motor
-* [Zemismart Super Curtain Robot Motor](https://s.click.aliexpress.com/e/_Dd5REeL)
-* [Zemismart Roller Blind Curtain motor](https://s.click.aliexpress.com/e/_DmpRGkR)
-
-## Cameras
-* [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
-
-## Heating
-* [Honeywell Evohome Starterkit](https://amzn.to/390BuIy)
-* [Honeywell Evohome Radiator Valves](https://amzn.to/38a23fa)
-
-## Bridges / Hubs
-* [Sonoff Zigbee 3.0 USB Dongle](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/)
-* [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
-
-## LED drivers
-* [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_AOEKhe)
-
-## Smart meter cable
-* [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
-
-<hr>
-
-# List of all the devices that I use(d) and tested:
-
-## Home Assistant Server
 * [Raspberry Pi 4b - 4Gb](https://amzn.to/2Mo9p6k)
 * [SSD WD Green 120Gb](https://amzn.to/3n7T42h)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
@@ -83,7 +31,7 @@ You can support me by buying me a coffee:
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
 * [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
-* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_ArcaDE)
+* [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
 * [Tradfri Wireless motion sensor](https://www.ikea.com/nl/en/p/tradfri-wireless-motion-sensor-white-70429913/)
 * [Philips Motion Sensor](https://amzn.to/389jRHs)
@@ -107,6 +55,7 @@ You can support me by buying me a coffee:
 
 ## Vacuum cleaners
 * [Roborock S5 Max](https://s.click.aliexpress.com/e/_A9WSGQ)
+* [Roborock S7](https://s.click.aliexpress.com/e/_DBgZjW3)
 
 ## Bridges / Hubs
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
@@ -118,11 +67,12 @@ You can support me by buying me a coffee:
 * [TP-Link Deco M9 Router](https://amzn.to/356Z4SY)
 
 ## Processors
-* [Wemos D1 Mini](https://s.click.aliexpress.com/e/_dUuzg4Q)
+* [Wemos D1 Mini](https://s.click.aliexpress.com/e/_DkEFgd9)
+* [ESP8266 ESP-12F Nodemcu Mini D1](https://s.click.aliexpress.com/e/_DEJCxwb)
 
 ## Cables
 * [P1 port cable for Smart Energy Meter (Slimme meter)](https://s.click.aliexpress.com/e/_AnFSiz)
-* [Male to male cables](https://s.click.aliexpress.com/e/_d78fMnG)
+* [DuPont cables](https://s.click.aliexpress.com/e/_d78fMnG)
 
 ## LED drivers
 * [LED dimmable driver](https://s.click.aliexpress.com/e/_ANlalb)
@@ -132,7 +82,7 @@ You can support me by buying me a coffee:
 * [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
 
 ## Miscellaneous
-* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_98xhFe)
+* [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_DFCglUP)
 
 
 
