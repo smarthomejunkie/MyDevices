@@ -36,6 +36,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
 
 ## Switches
+* [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DF6pSUj)
 * [Smart Plug with power measurement (Tasmota flashable at the time when I bought these)](https://amzn.to/3918JeH)
 * [Smart Plug](https://s.click.aliexpress.com/e/_ArlTn7)
 * [Crowstone Built-in One](https://shop.crownstone.rocks/products/extension-kit-1-unit-crownstone-built-in-one)
