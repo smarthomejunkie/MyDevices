@@ -57,6 +57,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Roborock S7](https://s.click.aliexpress.com/e/_DBgZjW3)
 
 ## Bridges / Hubs
+* [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-E](https://itead.cc/product/zigbee-3-0-usb-dongle/ref/36/)
+* [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-P](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/?campaign=ZigbeeDonglePlus)
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 
 ## Trackers
