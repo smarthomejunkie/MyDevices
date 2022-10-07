@@ -20,7 +20,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Am4Seo)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
 * [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
-* [Philips Hue A19 Smart Bulb](https://amzn.to/3n6PfdO)
+* Philips Hue A19 Smart Bulb: [Buy at Amazon](https://amzn.to/3CfDRG7)
 * [Lidl Moodlight](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-sfeerverlichting-Zigbee-Smart-Home%2Fp100317586)
 * [Lidl A19 Smart Bulb](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-lamp-Zigbee-Smart-Home%2Fp100306622)
 
