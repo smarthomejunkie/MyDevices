@@ -46,7 +46,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Tuya Smart Breaker Switch](https://s.click.aliexpress.com/e/_99XdYT)
 
 ## Cameras
-* [Ring Doorbell Pro](https://amzn.to/38tYQHZ)
+* Ring Doorbell Pro: [Buy at Amazon](https://amzn.to/3Mcbrl1)
 
 ## Heating
 * [Honeywell Evohome Starterkit](https://amzn.to/390BuIy)
