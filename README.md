@@ -11,7 +11,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 
 ## Home Assistant Server
 * Raspberry Pi 4b - 4Gb: [Buy at Amazon](https://amzn.to/3rArekb)
-* [SSD WD Green 120Gb](https://amzn.to/3n7T42h)
+* SSD WD Green 120Gb: [Buy at Amazon](https://amzn.to/3V90ODx)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
 
 ## Lights
