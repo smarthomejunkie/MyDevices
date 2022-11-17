@@ -45,6 +45,10 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Curtain/Cover switch](https://s.click.aliexpress.com/e/_A3RoUP)
 * [Tuya Smart Breaker Switch](https://s.click.aliexpress.com/e/_99XdYT)
 
+## Infrared Remote Control
+* [Broadlink RM Mini](https://s.click.aliexpress.com/e/_DDXp1cj) at AliExpress
+* [Broadlink RM Mini](https://amzn.to/3AlquUw) at Amazon
+
 ## Cameras
 * Ring Doorbell Pro: [Buy at Amazon](https://amzn.to/3Mcbrl1)
 
