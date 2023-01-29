@@ -34,6 +34,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Tradfri Wireless motion sensor](https://www.ikea.com/nl/en/p/tradfri-wireless-motion-sensor-white-70429913/)
 * [Philips Motion Sensor](https://amzn.to/389jRHs)
 * [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
+* Vibration sensor [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBVwLCJ)
+* Vibration sensor [Buy at Amazon](https://amzn.to/3YacGpD)
 
 ## Switches
 * [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DF6pSUj)
