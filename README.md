@@ -14,6 +14,9 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * SSD WD Green 120Gb: [Buy at Amazon](https://amzn.to/3V90ODx)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
 
+## BlueTooth Dongle:
+* ASUS BT-500: [Buy at Amazon US](https://amzn.to/3nkCiCY) - [Buy at Amazon NL](https://amzn.to/3LO6y3m)
+
 ## Lights
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
