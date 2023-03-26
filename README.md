@@ -62,10 +62,14 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Roborock S5 Max](https://s.click.aliexpress.com/e/_A9WSGQ)
 * [Roborock S7](https://s.click.aliexpress.com/e/_DBgZjW3)
 
+## Curtains
+* SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
+
 ## Bridges / Hubs
 * [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-E](https://itead.cc/product/zigbee-3-0-usb-dongle/ref/36/)
 * [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-P](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/?campaign=ZigbeeDonglePlus)
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
+* SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
 
 ## Trackers
 [Tile Mate](https://amzn.to/38a2TZm)
