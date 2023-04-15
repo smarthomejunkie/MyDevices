@@ -19,8 +19,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 
 ## Gadgets
 * Ulanzi Desktop Clock:
-** [Buy at the official store](https://www.ulanzi.com/collections/clock/products/ulanzi-pixel-smart-clock-2882?aff=903)
-** [Buy at AliExpress](https://s.click.aliexpress.com/e/_DkPphDX)
+[Buy at the official store](https://www.ulanzi.com/collections/clock/products/ulanzi-pixel-smart-clock-2882?aff=903)
+[Buy at AliExpress](https://s.click.aliexpress.com/e/_DkPphDX)
 
 ## Lights
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
