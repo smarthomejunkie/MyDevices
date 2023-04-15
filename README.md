@@ -17,6 +17,11 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 ## BlueTooth Dongle:
 * ASUS BT-500: [Buy at Amazon US](https://amzn.to/3nkCiCY) - [Buy at Amazon NL](https://amzn.to/3LO6y3m)
 
+## Gadgets
+* Ulanzi Desktop Clock:
+** [Buy at the official store](https://www.ulanzi.com/collections/clock/products/ulanzi-pixel-smart-clock-2882?aff=903)
+** [Buy at AliExpress](https://s.click.aliexpress.com/e/_DkPphDX)
+
 ## Lights
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
