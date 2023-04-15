@@ -44,7 +44,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * Vibration sensor [Buy at Amazon](https://amzn.to/3YacGpD)
 
 ## Switches
-* [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DmmjUZr)
+* [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DCWe1zb)
 * [Smart Plug with power measurement (Tasmota flashable at the time when I bought these)](https://amzn.to/3918JeH)
 * [Smart Plug](https://s.click.aliexpress.com/e/_ArlTn7)
 * [Crowstone Built-in One](https://shop.crownstone.rocks/products/extension-kit-1-unit-crownstone-built-in-one)
