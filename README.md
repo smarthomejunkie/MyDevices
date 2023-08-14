@@ -78,7 +78,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
 
 ## 3D Printer
-* [Ender 3 Pro](https://www.banggood.com/custlink/K3vH52lyPu)
+* [Ender 3 Pro Banggood](https://www.banggood.com/custlink/K3vH52lyPu)
+* [Ender 3 Pro Aliexpress](https://s.click.aliexpress.com/e/_DFeXPxv)
 
 ## Trackers
 [Tile Mate](https://amzn.to/38a2TZm)
