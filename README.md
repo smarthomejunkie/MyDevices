@@ -77,6 +77,9 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 * SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
 
+## 3D Printer
+* [Ender 3 Pro](https://www.banggood.com/custlink/K3vH52lyPu)
+
 ## Trackers
 [Tile Mate](https://amzn.to/38a2TZm)
 
