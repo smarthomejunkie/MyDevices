@@ -58,6 +58,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Shelly Dimmer 2](https://amzn.to/3pVoc83)
 * [Curtain/Cover switch](https://s.click.aliexpress.com/e/_A3RoUP)
 * [Tuya Smart Breaker Switch](https://s.click.aliexpress.com/e/_99XdYT)
+* Adaprox Fingerbot: [Buy at AliExpress](https://s.click.aliexpress.com/e/_De5d1tX)
 
 ## Infrared Remote Control
 * [Broadlink RM Mini](https://s.click.aliexpress.com/e/_DDXp1cj) at AliExpress
