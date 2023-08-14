@@ -65,6 +65,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 
 ## Cameras
 * Ring Doorbell Pro: [Buy at Amazon](https://amzn.to/3Mcbrl1)
+* Eufy S220 Solocam: [Buy at Amazon](https://bit.ly/46FPeFO)
+* Reolink E1 Outdoor Pro camera: [Buy at Reolink](https://tidd.ly/3peg86R)
 
 ## Heating
 * [Honeywell Evohome Starterkit](https://amzn.to/390BuIy)
