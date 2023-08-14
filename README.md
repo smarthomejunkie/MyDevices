@@ -80,6 +80,9 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 ## 3D Printer
 * [Ender 3 Pro Banggood](https://www.banggood.com/custlink/K3vH52lyPu)
 * [Ender 3 Pro Aliexpress](https://s.click.aliexpress.com/e/_DFeXPxv)
+* [Ender 3 Pro Amazon.com](https://amzn.to/3KEkzPO)
+* [Ender 3 Pro Amazon.co.uk](https://amzn.to/3Yw8hyH)
+* [Ender 3 Pro Amazon.nl](https://amzn.to/3OxIQbl)
 
 ## Trackers
 [Tile Mate](https://amzn.to/38a2TZm)
