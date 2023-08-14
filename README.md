@@ -88,6 +88,7 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-P](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/?campaign=ZigbeeDonglePlus)
 * [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 * SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
+* SwitchBot Hub 2: [Buy at Switchbot](https://bit.ly/3H5Pfra) / [Buy at Amazon US](https://amzn.to/3mSjDyF) / [Buy at Amazon NL](https://amzn.to/43UhEKK) / [Buy at Amazon UK](https://amzn.to/3qvsHv2)
 
 ## 3D Printer
 * [Ender 3 Pro Banggood](https://www.banggood.com/custlink/K3vH52lyPu)
