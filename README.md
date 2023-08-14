@@ -29,6 +29,14 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * Philips Hue A19 Smart Bulb: [Buy at Amazon](https://amzn.to/3CfDRG7)
 * [Lidl Moodlight](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-sfeerverlichting-Zigbee-Smart-Home%2Fp100317586)
 * [Lidl A19 Smart Bulb](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-lamp-Zigbee-Smart-Home%2Fp100306622)
+* [Zemismart Matter Lightbulb at AliExpress](https://s.click.aliexpress.com/e/_Dd1XkDl) Coupon Code: ZMMT02（2USD OFF）
+* [Zemismart Matter Lightbulb at Amazon](https://amzn.to/451fYyI)) Coupon Code: YTD3C3E8 10% off
+* [Zemismart Matter downlight at AliExpress](https://s.click.aliexpress.com/e/_Dl9QgP1) Coupon Code: ZMMT03（3USD OFF）
+* [Zemismart Matter downlight at Amazon](https://amzn.to/4516Uds) Coupon Code: YTD3C3E8 10% off
+* [Zemismart Matter 25mm Blind Motor at AliExpress](https://s.click.aliexpress.com/e/_DFeyHSj) Coupon Code: ZMMT06（6USD OFF)
+* [Zemismart Matter 25mm Blind Motor at Amazon](https://amzn.to/3QbTl6B) Coupon Code: YTD3C3E8 10% off
+* [Zemismart Matter Curtain Track](https://s.click.aliexpress.com/e/_DEeXRrl) Coupon Code: ZMMT15（15USD OFF）
+* 
 
 ## Sensors
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
@@ -42,6 +50,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
 * Vibration sensor [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBVwLCJ)
 * Vibration sensor [Buy at Amazon](https://amzn.to/3YacGpD)
+* Aqara FP2 [Buy at Amazon.com](https://amzn.to/3qpXQ2T)
+* Aqara FP2 [Buy at Amazon.co.uk](https://amzn.to/3DSkq7C)
 
 ## Switches
 * [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DCVSyih)
