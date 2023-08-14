@@ -33,10 +33,6 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [Zemismart Matter Lightbulb at Amazon](https://amzn.to/451fYyI)) Coupon Code: YTD3C3E8 10% off
 * [Zemismart Matter downlight at AliExpress](https://s.click.aliexpress.com/e/_Dl9QgP1) Coupon Code: ZMMT03（3USD OFF）
 * [Zemismart Matter downlight at Amazon](https://amzn.to/4516Uds) Coupon Code: YTD3C3E8 10% off
-* [Zemismart Matter 25mm Blind Motor at AliExpress](https://s.click.aliexpress.com/e/_DFeyHSj) Coupon Code: ZMMT06（6USD OFF)
-* [Zemismart Matter 25mm Blind Motor at Amazon](https://amzn.to/3QbTl6B) Coupon Code: YTD3C3E8 10% off
-* [Zemismart Matter Curtain Track](https://s.click.aliexpress.com/e/_DEeXRrl) Coupon Code: ZMMT15（15USD OFF）
-* 
 
 ## Sensors
 * [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
@@ -80,6 +76,9 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 
 ## Curtains
 * SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
+* [Zemismart Matter 25mm Blind Motor at AliExpress](https://s.click.aliexpress.com/e/_DFeyHSj) Coupon Code: ZMMT06（6USD OFF)
+* [Zemismart Matter 25mm Blind Motor at Amazon](https://amzn.to/3QbTl6B) Coupon Code: YTD3C3E8 10% off
+* [Zemismart Matter Curtain Track](https://s.click.aliexpress.com/e/_DEeXRrl) Coupon Code: ZMMT15（15USD OFF）
 
 ## Bridges / Hubs
 * [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-E](https://itead.cc/product/zigbee-3-0-usb-dongle/ref/36/)
