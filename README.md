@@ -15,8 +15,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
 
 ## Zigbee Dongles
-* Sonoff Zigbee Dongle-E: [Amazon US](https://amzn.to/3eeLJ2v) / [Amazon UK](https://amzn.to/3DUw8OO) / [Amazon NL](https://amzn.to/3QFn1cK)
-* Sonoff Zigbee Dongle-P: [Amazon US](https://amzn.to/3OW1Ql3) / [Amazon UK](https://amzn.to/45bQmQg) / [Amazon NL](https://amzn.to/44bFXTs)
+* Sonoff Zigbee Dongle-E: [Amazon US](https://amzn.to/3eeLJ2v) / [Amazon UK](https://amzn.to/3DUw8OO) / [Amazon NL](https://amzn.to/3QFn1cK) / [AliExpress](https://s.click.aliexpress.com/e/_DEB4hcb)
+* Sonoff Zigbee Dongle-P: [Amazon US](https://amzn.to/3OW1Ql3) / [Amazon UK](https://amzn.to/45bQmQg) / [Amazon NL](https://amzn.to/44bFXTs) / [AliExpress](https://s.click.aliexpress.com/e/_DEfIC4r)
 
 ## BlueTooth Dongle:
 * ASUS BT-500: [Buy at Amazon US](https://amzn.to/3nkCiCY) - [Buy at Amazon NL](https://amzn.to/3LO6y3m)
