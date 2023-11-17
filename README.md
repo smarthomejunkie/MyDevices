@@ -81,6 +81,10 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 ## Vacuum cleaners
 * [Roborock S5 Max](https://s.click.aliexpress.com/e/_A9WSGQ)
 * [Roborock S7](https://s.click.aliexpress.com/e/_DBgZjW3)
+* SwitchBot K10+ | Discount 20% off
+** Amazon US: https://amzn.to/46se76E
+** Amazon UK: https://amzn.to/3SRsEWl
+** Amazon NL: https://amzn.to/46jDjMf
 
 ## Curtains
 * SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
