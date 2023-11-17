@@ -84,7 +84,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHom
 * SwitchBot K10+ | Discount 20% off: [Buy at amazon US](https://amzn.to/46se76E) - [Buy at Amazon UK](https://amzn.to/3SRsEWl) - [Buy at Amazon NL](https://amzn.to/46jDjMf)
 
 ## Curtains
-* SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
+* SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon UK](https://amzn.to/3SLcMUY) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
+* Switchbot Curtain 3: [Buy at Amazon US](https://amzn.to/3MPPXM6) - [Buy at Amazon UK](https://amzn.to/3R3Pcle) - [Buy at Amazon NL](https://amzn.to/3R5auiz)
 * [Zemismart Matter 25mm Blind Motor at AliExpress](https://s.click.aliexpress.com/e/_DFeyHSj) Coupon Code: ZMMT06（6USD OFF)
 * [Zemismart Matter 25mm Blind Motor at Amazon](https://amzn.to/3QbTl6B) Coupon Code: YTD3C3E8 10% off
 * [Zemismart Matter Curtain Track](https://s.click.aliexpress.com/e/_DEeXRrl) Coupon Code: ZMMT15（15USD OFF）
