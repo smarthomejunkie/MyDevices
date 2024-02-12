@@ -88,8 +88,8 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [Zemismart Matter Curtain Track](https://s.click.aliexpress.com/e/_DEeXRrl) Coupon Code: ZMMT15（15USD OFF）
 
 ## Bridges / Hubs
-* SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
-* SwitchBot Hub 2: [Buy at Switchbot](https://bit.ly/3H5Pfra) / [Buy at Amazon US](https://amzn.to/3mSjDyF) / [Buy at Amazon NL](https://amzn.to/43UhEKK) / [Buy at Amazon UK](https://amzn.to/3qvsHv2)
+* SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon UK](https://amzn.to/4bz95sr) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
+* SwitchBot Hub 2: [Buy at Switchbot](https://bit.ly/3H5Pfra) - [Buy at Amazon US](https://amzn.to/3mSjDyF) - / [Buy at Amazon UK](https://amzn.to/3qvsHv2) - [Buy at Amazon NL](https://amzn.to/43UhEKK) 
 
 ## 3D Printer
 * [Ender 3 Pro Banggood](https://www.banggood.com/custlink/K3vH52lyPu)
