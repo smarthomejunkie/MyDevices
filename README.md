@@ -1,5 +1,5 @@
 # My Devices
-Here's the list of all the Smart Home devices that I use.
+Here's the list of all the smart home devices that I use. If you order any of these products through this page, I will receive a small affiliate fee, but it won't cost you anything extra.
 
 Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie)
 
