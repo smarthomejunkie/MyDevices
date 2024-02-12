@@ -18,7 +18,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 
 ## Zigbee Dongles
 * Sonoff Zigbee Dongle-E: [Amazon US](https://amzn.to/3eeLJ2v) / [Amazon UK](https://amzn.to/3DUw8OO) / [Amazon NL](https://amzn.to/3QFn1cK) / [AliExpress](https://s.click.aliexpress.com/e/_DEB4hcb)
-* Sonoff Zigbee Dongle-P: [Amazon US](https://amzn.to/3OW1Ql3) / [Amazon UK](https://amzn.to/45bQmQg) / [Amazon NL](https://amzn.to/44bFXTs) / [AliExpress](https://s.click.aliexpress.com/e/_DEfIC4r)
+* Sonoff Zigbee Dongle-P: [Amazon US](https://amzn.to/3OW1Ql3) / [Amazon UK](https://amzn.to/45bQmQg) / [Amazon NL](https://amzn.to/44bFXTs) / [AliExpress](https://s.click.aliexpress.com/e/_Dld6BhP)
 * Conbee 2 Stick: [Amazon US](https://amzn.to/47CfK39) / [Amazon UK](https://amzn.to/3YIYdCr) / [Amazon NL](https://amzn.to/3YE1GlV)
 
 ## BlueTooth Dongle:
