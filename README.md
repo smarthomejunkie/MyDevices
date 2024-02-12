@@ -28,9 +28,9 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Ulanzi Desktop Clock: [Buy at the official store](https://www.ulanzi.com/collections/clock/products/ulanzi-pixel-smart-clock-2882?aff=903) / [Buy at AliExpress](https://s.click.aliexpress.com/e/_DkPphDX)
 
 ## Lights
-* [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_AqZLhh)
+* [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_Dmh0dXb)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
-* [Led Strip RGBWW](https://s.click.aliexpress.com/e/_Am4Seo)
+* [Led Strip RGBWW addressable](https://s.click.aliexpress.com/e/_DnOd9pn)
 * [Tradfri Led Bulb GU10](https://www.ikea.com/nl/en/p/tradfri-led-bulb-gu10-400-lumen-wireless-dimmable-white-spectrum-90408603/)
 * [Tradfri Led Bulb Color E27](https://www.ikea.com/nl/en/p/tradfri-led-bulb-e27-600-lumen-wireless-dimmable-colour-and-white-spectrum-colour-and-white-spectrum-globe-opal-white-00408612/)
 * Philips Hue A19 Smart Bulb: [Buy at Amazon](https://amzn.to/3CfDRG7)
