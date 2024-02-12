@@ -44,13 +44,12 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Aqara Door Sensor (Zigbee): [Buy at Amazon US](https://amzn.to/3UBnNcE) - [Buy at Amazon UK](https://amzn.to/4bsZzr3) - [Buy at Amazon NL](https://amzn.to/3HWXHJy) - [Buy At AliExpress](https://s.click.aliexpress.com/e/_DlLVUzx)
 * Aqara Motion Sensor: [Buy at Amazon US](https://amzn.to/49vyz8t) - [Buy at Amazon UK](https://amzn.to/48bKDL6) - [But at AliExpress](https://s.click.aliexpress.com/e/_Dedio7B)
 * Aqara Vibration sensor [Buy at Amazon US](https://amzn.to/3YacGpD) - [Buy at Amazon UK](https://amzn.to/3UBn9Mg) - [Buy at Amazon NL](https://amzn.to/49cv1bh) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBVwLCJ)
+* Aqara FP2 Presence Sensor [Buy at Amazon US](https://amzn.to/3qpXQ2T) - [Buy at Amazon UK](https://amzn.to/3DSkq7C) - [Buy at Amazon NL](https://amzn.to/3HXiUDi)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
 * [BME280 Temperature/Humidity/Pressure sensor](https://s.click.aliexpress.com/e/_DDZzsxR)
 * Philips Motion Sensor: [Buy at Amazon US](https://amzn.to/48dEQED) - [Buy at Amazon UK](https://amzn.to/48iYEGK) - [Buy at Amazon NL](https://amzn.to/49wxdu1)
 * [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
-* Aqara FP2 [Buy at Amazon.com](https://amzn.to/3qpXQ2T)
-* Aqara FP2 [Buy at Amazon.co.uk](https://amzn.to/3DSkq7C)
 
 ## Switches
 * [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DCVSyih)
