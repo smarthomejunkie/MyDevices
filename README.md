@@ -17,9 +17,9 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
 
 ## Zigbee Dongles
-* Sonoff Zigbee Dongle-E: [Amazon US](https://amzn.to/3eeLJ2v) / [Amazon UK](https://amzn.to/3DUw8OO) / [Amazon NL](https://amzn.to/3QFn1cK) / [AliExpress](https://s.click.aliexpress.com/e/_DEB4hcb)
-* Sonoff Zigbee Dongle-P: [Amazon US](https://amzn.to/3OW1Ql3) / [Amazon UK](https://amzn.to/45bQmQg) / [Amazon NL](https://amzn.to/44bFXTs) / [AliExpress](https://s.click.aliexpress.com/e/_Dld6BhP)
-* Conbee 2 Stick: [Amazon US](https://amzn.to/47CfK39) / [Amazon UK](https://amzn.to/3YIYdCr) / [Amazon NL](https://amzn.to/3YE1GlV)
+* Sonoff Zigbee Dongle-E: [Buy at iTead](https://itead.cc/product/zigbee-3-0-usb-dongle/ref/36/) - [Buy at Amazon US](https://amzn.to/3eeLJ2v) / [Buy at Amazon UK](https://amzn.to/3DUw8OO) / [Buy at Amazon NL](https://amzn.to/3QFn1cK) / [Buy at AliExpress](https://s.click.aliexpress.com/e/_DEB4hcb)
+* Sonoff Zigbee Dongle-P: [Buy at iTead](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/?campaign=ZigbeeDonglePlus) - [Buy at Amazon US](https://amzn.to/3OW1Ql3) / [Buy at Amazon UK](https://amzn.to/45bQmQg) / [Buy at Amazon NL](https://amzn.to/44bFXTs) / [Buy at AliExpress](https://s.click.aliexpress.com/e/_Dld6BhP)
+* Conbee 2 Stick: [Buy at Amazon US](https://amzn.to/47CfK39) / [Buy at Amazon UK](https://amzn.to/3YIYdCr) / [Buy at Amazon NL](https://amzn.to/3YE1GlV)
 
 ## BlueTooth Dongle:
 * ASUS BT-500: [Buy at Amazon US](https://amzn.to/3nkCiCY) - [Buy at Amazon UK](https://amzn.to/49hxode) - [Buy at Amazon NL](https://amzn.to/3LO6y3m) 
@@ -78,7 +78,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 ## Vacuum cleaners
 * Roborock S5 Max: [Buy at AliExpress](https://s.click.aliexpress.com/e/_Dd7MQ2l)
 * Roborock S7: [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBgZjW3)
-* SwitchBot K10+ | Discount 20% off: [Buy at amazon US](https://amzn.to/46se76E) - [Buy at Amazon UK](https://amzn.to/3SRsEWl) - [Buy at Amazon NL](https://amzn.to/46jDjMf)
+* SwitchBot K10+ | Discount 20% off: [Buy at Amazon US](https://amzn.to/46se76E) - [Buy at Amazon UK](https://amzn.to/3SRsEWl) - [Buy at Amazon NL](https://amzn.to/46jDjMf)
 
 ## Curtains
 * SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon UK](https://amzn.to/3SLcMUY) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
@@ -88,9 +88,6 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [Zemismart Matter Curtain Track](https://s.click.aliexpress.com/e/_DEeXRrl) Coupon Code: ZMMT15（15USD OFF）
 
 ## Bridges / Hubs
-* [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-E](https://itead.cc/product/zigbee-3-0-usb-dongle/ref/36/)
-* [Sonoff Zigbee 3.0 USB Dongle Plus ZBDongle-P](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/ref/36/?campaign=ZigbeeDonglePlus)
-* [Conbee 2 Zigbee stick](https://amzn.to/2MPzLOJ)
 * SwitchBot Hub Mini: [Buy at Amazon US](https://amzn.to/40xttoh) - [Buy at Amazon NL](https://amzn.to/40Bx0Br)
 * SwitchBot Hub 2: [Buy at Switchbot](https://bit.ly/3H5Pfra) / [Buy at Amazon US](https://amzn.to/3mSjDyF) / [Buy at Amazon NL](https://amzn.to/43UhEKK) / [Buy at Amazon UK](https://amzn.to/3qvsHv2)
 
