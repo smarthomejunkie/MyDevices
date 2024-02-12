@@ -7,6 +7,8 @@ Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/@smarthome
 
 ***Click on the links to go to the specific webshop***
 
+As an Amazon Associate, I earn from qualifying purchases.
+
 # My recommendations for an intelligent home:
 
 ## Home Assistant Server
