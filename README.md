@@ -69,7 +69,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Reolink Video Doorbell POE: [Buy at Reolink](https://tidd.ly/3jpexI8) - [Buy at Amazon US](https://amzn.to/499rRoY) - [Buy at Amazon UK](https://amzn.to/42EkOlq) - [Buy at Amazon NL](https://amzn.to/3wdRiqV)
 * Ring Doorbell Pro 2: [Buy at Amazon US](https://amzn.to/3utMrRO) - [Buy at Amazon UK](https://amzn.to/48dYjoA) - [Buy at Amazon NL](https://amzn.to/42CFrP9)
 * Eufy S220 Solocam: [Buy at Amazon US](https://amzn.to/3wg0UBq) - [Buy at Amazon UK](https://bit.ly/46FPeFO) - [Buy at Amazon NL](https://amzn.to/3UFYoOT)
-* Reolink E1 Outdoor Pro camera: [Buy at Reolink](https://tidd.ly/3peg86R)
+* Reolink E1 Outdoor Pro camera: [Buy at Reolink](https://tidd.ly/3peg86R) - [Buy at Amazon US](https://amzn.to/3uuuC50) - [Buy at Amazon UK](https://amzn.to/3SVamD0) - [Buy at Amazon NL](https://amzn.to/3umKNS3)
 
 ## Heating
 * [Honeywell Evohome Starterkit](https://amzn.to/390BuIy)
