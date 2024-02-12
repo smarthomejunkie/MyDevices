@@ -1,7 +1,7 @@
 # My Devices
 Here's the list of all the Smart Home devices that I use.
 
-Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/c/SmartHomeJunkie)
+Visit my Youtube channel: [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie)
 
 <a href="https://www.patreon.com/bePatron?u=50155158" target="_blank"><img src="https://github.com/smarthomejunkie/Home-Assistant-Tutorials/blob/master/become-a-patron.png?raw=true" alt="Become a Patron!"></a>
 
