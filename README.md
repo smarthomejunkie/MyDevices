@@ -109,7 +109,7 @@ Tile Mate: [Buy at Amazon US](https://amzn.to/4bwfZin) - [Buy at Amazon UK](http
 * [DuPont cables](https://s.click.aliexpress.com/e/_d78fMnG)
 
 ## LED drivers
-* [LED dimmable driver](https://s.click.aliexpress.com/e/_ANlalb)
+* [LED dimmable driver](https://s.click.aliexpress.com/e/_DEL9VAp)
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_AOEKhe)
 
 ## Smart meter cable
@@ -122,7 +122,7 @@ If this helped and saved you time, you can support me by becoming my Patron or b
 
 <a href="https://www.patreon.com/bePatron?u=50155158" target="_blank"><img src="https://github.com/smarthomejunkie/Home-Assistant-Tutorials/blob/master/become-a-patron.png?raw=true" alt="Become a Patron!"></a>
 
-<a href="https://www.buymeacoffee.com/smarthomejunkie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="51" width="217" ></a>
+<a href="https://ko-fi.com/smarthomejunkie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="51" width="217" ></a>
 
 
 
