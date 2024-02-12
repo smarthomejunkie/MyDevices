@@ -40,9 +40,9 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [Zemismart Matter downlight at Amazon](https://amzn.to/4516Uds) Coupon Code: YTD3C3E8 10% off
 
 ## Sensors
-* [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_AFJUIV)
-* [Aqara Door Sensor](https://s.click.aliexpress.com/e/_A26g2H)
-* [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_AZ3Yzo)
+* [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_DCheNxL)
+* [Aqara Door Sensor](https://s.click.aliexpress.com/e/_DlLVUzx)
+* [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_Dedio7B)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
