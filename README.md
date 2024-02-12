@@ -40,16 +40,15 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [Zemismart Matter downlight at Amazon](https://amzn.to/4516Uds) Coupon Code: YTD3C3E8 10% off
 
 ## Sensors
-* [Aqara Temperature/Humidity/Pressure Sensor](https://s.click.aliexpress.com/e/_DCheNxL)
+* Aqara Temperature/Humidity/Pressure Sensor: [Buy at Amazon US](https://amzn.to/3OEkMEu) - [Buy at Amazon UK](https://amzn.to/3SVhtLG) - [Buy at Amazon NL](https://amzn.to/3SCRPdj) - [Buy At AliExpress](https://s.click.aliexpress.com/e/_DCheNxL)
 * [Aqara Door Sensor](https://s.click.aliexpress.com/e/_DlLVUzx)
 * [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_Dedio7B)
+* Aqara Vibration sensor [Buy at Amazon US](https://amzn.to/3YacGpD) - [Buy at Amazon UK](https://amzn.to/3UBn9Mg) - [Buy at Amazon NL](https://amzn.to/49cv1bh) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBVwLCJ)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
 * [BME280 Temperature/Humidity/Pressure sensor](https://s.click.aliexpress.com/e/_DDZzsxR)
 * Philips Motion Sensor: [Buy at Amazon US](https://amzn.to/48dEQED) - [Buy at Amazon UK](https://amzn.to/48iYEGK) - [Buy at Amazon NL](https://amzn.to/49wxdu1)
 * [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
-* Vibration sensor [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBVwLCJ)
-* Vibration sensor [Buy at Amazon](https://amzn.to/3YacGpD)
 * Aqara FP2 [Buy at Amazon.com](https://amzn.to/3qpXQ2T)
 * Aqara FP2 [Buy at Amazon.co.uk](https://amzn.to/3DSkq7C)
 
