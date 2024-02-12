@@ -41,8 +41,8 @@ As an Amazon Associate, I earn from qualifying purchases.
 
 ## Sensors
 * Aqara Temperature/Humidity/Pressure Sensor: [Buy at Amazon US](https://amzn.to/3OEkMEu) - [Buy at Amazon UK](https://amzn.to/3SVhtLG) - [Buy at Amazon NL](https://amzn.to/3SCRPdj) - [Buy At AliExpress](https://s.click.aliexpress.com/e/_DCheNxL)
-* [Aqara Door Sensor](https://s.click.aliexpress.com/e/_DlLVUzx)
-* [Aqara Motion Sensor](https://s.click.aliexpress.com/e/_Dedio7B)
+* Aqara Door Sensor (Zigbee): [Buy at Amazon US](https://amzn.to/3UBnNcE) - [Buy at Amazon UK](https://amzn.to/4bsZzr3) - [Buy at Amazon NL](https://amzn.to/3HWXHJy) - [Buy At AliExpress](https://s.click.aliexpress.com/e/_DlLVUzx)
+* Aqara Motion Sensor: [Buy at Amazon US](https://amzn.to/49vyz8t) - [Buy at Amazon UK](https://amzn.to/48bKDL6) - [But at AliExpress](https://s.click.aliexpress.com/e/_Dedio7B)
 * Aqara Vibration sensor [Buy at Amazon US](https://amzn.to/3YacGpD) - [Buy at Amazon UK](https://amzn.to/3UBn9Mg) - [Buy at Amazon NL](https://amzn.to/49cv1bh) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBVwLCJ)
 * [WiFi Curtain Switch and Remote](https://s.click.aliexpress.com/e/_9uiSeH)
 * [Heiman Smoke Sensor](https://s.click.aliexpress.com/e/_DeHp8cx)
