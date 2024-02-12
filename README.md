@@ -92,11 +92,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * SwitchBot Hub 2: [Buy at Switchbot](https://bit.ly/3H5Pfra) - [Buy at Amazon US](https://amzn.to/3mSjDyF) - / [Buy at Amazon UK](https://amzn.to/3qvsHv2) - [Buy at Amazon NL](https://amzn.to/43UhEKK) 
 
 ## 3D Printer
-* [Ender 3 Pro Banggood](https://www.banggood.com/custlink/K3vH52lyPu)
-* [Ender 3 Pro Aliexpress](https://s.click.aliexpress.com/e/_DFeXPxv)
-* [Ender 3 Pro Amazon.com](https://amzn.to/3KEkzPO)
-* [Ender 3 Pro Amazon.co.uk](https://amzn.to/3Yw8hyH)
-* [Ender 3 Pro Amazon.nl](https://amzn.to/3OxIQbl)
+* Ender 3 Pro: [Buy at Banggood](https://www.banggood.com/custlink/K3vH52lyPu) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DFeXPxv) - [Buy at Amazon US](https://amzn.to/3KEkzPO) - [Buy at Amazon UK](https://amzn.to/3Yw8hyH) - [Buy at Amazon NL](https://amzn.to/3OxIQbl)
 
 ## Trackers
 [Tile Mate](https://amzn.to/38a2TZm)
