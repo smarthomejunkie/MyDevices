@@ -65,8 +65,8 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Broadlink RM Mini: [Buy at Amazon US](https://amzn.to/3AlquUw) - [Buy at Amazon UK](https://amzn.to/3UUxZ07) - [Buy at Amazon NL](https://amzn.to/4bz54nR) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DDXp1cj)
 
 ## Cameras
-* Reolink Video Doorbell WiFi: [Buy at Reolink](https://tidd.ly/3YE7X0e) - [Buy at Amazon US](https://amzn.to/3wJhneb) - [Buy at Amazon NL](https://amzn.to/43I5Pr9)
-* Reolink Video Doorbell POE: [Buy at Reolink](https://tidd.ly/3jpexI8)
+* Reolink Video Doorbell WiFi: [Buy at Reolink](https://tidd.ly/3YE7X0e) - [Buy at Amazon US](https://amzn.to/3wJhneb) - [Buy at Amazon UK](https://amzn.to/3SSSuZA) - [Buy at Amazon NL](https://amzn.to/43I5Pr9)
+* Reolink Video Doorbell POE: [Buy at Reolink](https://tidd.ly/3jpexI8) - [Buy at Amazon US](https://amzn.to/499rRoY) - [Buy at Amazon UK](https://amzn.to/42EkOlq) - [Buy at Amazon NL](https://amzn.to/3wdRiqV)
 * Ring Doorbell Pro 2: [Buy at Amazon US](https://amzn.to/3utMrRO) - [Buy at Amazon UK](https://amzn.to/48dYjoA) - [Buy at Amazon NL](https://amzn.to/42CFrP9)
 * Eufy S220 Solocam: [Buy at Amazon US](https://amzn.to/3wg0UBq) - [Buy at Amazon UK](https://bit.ly/46FPeFO) - [Buy at Amazon NL](https://amzn.to/3UFYoOT)
 * Reolink E1 Outdoor Pro camera: [Buy at Reolink](https://tidd.ly/3peg86R)
