@@ -105,7 +105,7 @@ Tile Mate: [Buy at Amazon US](https://amzn.to/4bwfZin) - [Buy at Amazon UK](http
 * [ESP8266 ESP-12F Nodemcu Mini D1](https://s.click.aliexpress.com/e/_DEJCxwb)
 
 ## Cables
-* [P1 port cable for Smart Energy Meter (Slimme meter)](https://s.click.aliexpress.com/e/_AnFSiz)
+* [P1 port cable for Smart Energy Meter (Slimme meter)](https://s.click.aliexpress.com/e/_DFo67KZ)
 * [DuPont cables](https://s.click.aliexpress.com/e/_d78fMnG)
 
 ## LED drivers
@@ -113,7 +113,7 @@ Tile Mate: [Buy at Amazon US](https://amzn.to/4bwfZin) - [Buy at Amazon UK](http
 * [Gledopto Zigbee Led controller](https://s.click.aliexpress.com/e/_AOEKhe)
 
 ## Smart meter cable
-* [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_ASyC45)
+* [P1 USB cable to connect to your smart energy meter](https://s.click.aliexpress.com/e/_DFo67KZ)
 
 ## Miscellaneous
 * [12 Volt Adapter 3A](https://s.click.aliexpress.com/e/_DFCglUP)
