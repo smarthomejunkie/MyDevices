@@ -31,7 +31,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [LED dimmable bulb (78 Mm 6W 118 Mm 15W)](https://s.click.aliexpress.com/e/_Dmh0dXb)
 * [LED dimmable mini leds](https://s.click.aliexpress.com/e/_AZLRx7)
 * [Led Strip RGBWW addressable](https://s.click.aliexpress.com/e/_DnOd9pn)
-* Philips Hue A19 Smart Bulb: [Buy at Amazon](https://amzn.to/3CfDRG7)
+* Philips Hue A19 Smart Bulb: [Buy at Amazon US](https://amzn.to/4bCcdUw) - [Buy at Amazon UK](https://amzn.to/3wgqtCj) - [Buy at Amazon NL](https://amzn.to/3SA0Ofs)
 * [Lidl Moodlight](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-sfeerverlichting-Zigbee-Smart-Home%2Fp100317586)
 * [Lidl A19 Smart Bulb](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-lamp-Zigbee-Smart-Home%2Fp100306622)
 * [Zemismart Matter Lightbulb at AliExpress](https://s.click.aliexpress.com/e/_Dd1XkDl) Coupon Code: ZMMT02（2USD OFF）
