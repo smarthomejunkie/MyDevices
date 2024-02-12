@@ -22,7 +22,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Conbee 2 Stick: [Amazon US](https://amzn.to/47CfK39) / [Amazon UK](https://amzn.to/3YIYdCr) / [Amazon NL](https://amzn.to/3YE1GlV)
 
 ## BlueTooth Dongle:
-* ASUS BT-500: [Buy at Amazon US](https://amzn.to/3nkCiCY) - [Buy at Amazon NL](https://amzn.to/3LO6y3m)
+* ASUS BT-500: [Buy at Amazon US](https://amzn.to/3nkCiCY) - [Buy at Amazon UK](https://amzn.to/49hxode) - [Buy at Amazon NL](https://amzn.to/3LO6y3m) 
 
 ## Gadgets
 * Ulanzi Desktop Clock: [Buy at the official store](https://www.ulanzi.com/collections/clock/products/ulanzi-pixel-smart-clock-2882?aff=903) / [Buy at AliExpress](https://s.click.aliexpress.com/e/_DkPphDX)
