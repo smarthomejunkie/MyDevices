@@ -95,10 +95,10 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Ender 3 Pro: [Buy at Banggood](https://www.banggood.com/custlink/K3vH52lyPu) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DFeXPxv) - [Buy at Amazon US](https://amzn.to/3KEkzPO) - [Buy at Amazon UK](https://amzn.to/3Yw8hyH) - [Buy at Amazon NL](https://amzn.to/3OxIQbl)
 
 ## Trackers
-[Tile Mate](https://amzn.to/38a2TZm)
+Tile Mate: [Buy at Amazon US](https://amzn.to/4bwfZin) - [Buy at Amazon UK](https://amzn.to/3SUs4GL) - [Buy at Amazon NL](https://amzn.to/48aRiVH)
 
 ## Router
-* [TP-Link Deco M9 Router](https://amzn.to/356Z4SY)
+* TP-Link Deco M9 Router: [Buy at amazon US](https://amzn.to/497ZoQc) - [Buy at Amazon UK](https://amzn.to/4bCIx9N) - [Buy at Amazon NL](https://amzn.to/356Z4SY)
 
 ## Processors
 * [Wemos D1 Mini](https://s.click.aliexpress.com/e/_DkEFgd9)
