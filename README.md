@@ -72,12 +72,12 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Reolink E1 Outdoor Pro camera: [Buy at Reolink](https://tidd.ly/3peg86R) - [Buy at Amazon US](https://amzn.to/3uuuC50) - [Buy at Amazon UK](https://amzn.to/3SVamD0) - [Buy at Amazon NL](https://amzn.to/3umKNS3)
 
 ## Heating
-* [Honeywell Evohome Starterkit](https://amzn.to/390BuIy)
-* [Honeywell Evohome Radiator Valves](https://amzn.to/38a23fa)
+* Honeywell Evohome Starterkit: [Buy at Amazon UK](https://amzn.to/3SzOfRa) - [Buy at Amazon NL](https://amzn.to/390BuIy)
+* Honeywell Evohome Radiator Valves: [Buy at Amazon UK](https://amzn.to/42zKjV0) - [Buy at Amazon NL](https://amzn.to/38a23fa)
 
 ## Vacuum cleaners
-* [Roborock S5 Max](https://s.click.aliexpress.com/e/_A9WSGQ)
-* [Roborock S7](https://s.click.aliexpress.com/e/_DBgZjW3)
+* Roborock S5 Max: [Buy at AliExpress](https://s.click.aliexpress.com/e/_Dd7MQ2l)
+* Roborock S7: [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBgZjW3)
 * SwitchBot K10+ | Discount 20% off: [Buy at amazon US](https://amzn.to/46se76E) - [Buy at Amazon UK](https://amzn.to/3SRsEWl) - [Buy at Amazon NL](https://amzn.to/46jDjMf)
 
 ## Curtains
