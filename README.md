@@ -55,6 +55,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DCVSyih)
 * [Smart Plug with power measurement (Tasmota flashable at the time when I bought these)](https://amzn.to/3918JeH)
 * [Smart Plug](https://s.click.aliexpress.com/e/_ArlTn7)
+* Shelly Plug S: [Buy at Amazon UK](https://amzn.to/3SJJRiE) - [Buy at Amazon NL](https://amzn.to/3uMD2F2)
 * Shelly 2 Double Relay Switch: [Buy at Amazon UK](https://amzn.to/3HYY0nb) - [Buy At Amazon NL](https://amzn.to/3UxjwqA)
 * Shelly Dimmer 2: [Buy at Amazon UK](https://amzn.to/4bw2NtN) - [Buy at Amazon NL](https://amzn.to/3SD4AEz) 
 * [Curtain/Cover switch](https://s.click.aliexpress.com/e/_A3RoUP)
