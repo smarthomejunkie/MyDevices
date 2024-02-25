@@ -12,6 +12,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 # My recommendations for an intelligent home:
 
 ## Home Assistant Server
+* Odroid N2 Plus: [Buy at Amazon US](https://amzn.to/3Ta6AWx) - [Buy at Amazon NL](https://amzn.to/3TbCIJh)
 * Raspberry Pi 4b - 4Gb: [Buy at Amazon](https://amzn.to/3rArekb)
 * SSD WD Green 120Gb: [Buy at Amazon](https://amzn.to/3V90ODx)
 * [SATA to USB cable (that works)](https://www.bol.com/nl/p/professional-sata-naar-usb-3-0-kabel-adapter-2-5-inch-ssd-harde-schijf-uitbreiden-connector/9200000104702554/)
