@@ -36,7 +36,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [Lidl Moodlight](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-sfeerverlichting-Zigbee-Smart-Home%2Fp100317586)
 * [Lidl A19 Smart Bulb](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FLIVARNO-LUX-LED-lamp-Zigbee-Smart-Home%2Fp100306622)
 * [Zemismart Matter Lightbulb at AliExpress](https://s.click.aliexpress.com/e/_Dd1XkDl) Coupon Code: ZMMT02（2USD OFF）
-* [Zemismart Matter Lightbulb at Amazon](https://amzn.to/451fYyI)) Coupon Code: YTD3C3E8 10% off
+* [Zemismart Matter Lightbulb at Amazon](https://amzn.to/451fYyI) Coupon Code: YTD3C3E8 10% off
 * [Zemismart Matter downlight at AliExpress](https://s.click.aliexpress.com/e/_Dl9QgP1) Coupon Code: ZMMT03（3USD OFF）
 * [Zemismart Matter downlight at Amazon](https://amzn.to/4516Uds) Coupon Code: YTD3C3E8 10% off
 
