@@ -59,7 +59,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Shelly 2 Double Relay Switch: [Buy at Amazon UK](https://amzn.to/3HYY0nb) - [Buy At Amazon NL](https://amzn.to/3UxjwqA)
 * Shelly Dimmer 2: [Buy at Amazon UK](https://amzn.to/4bw2NtN) - [Buy at Amazon NL](https://amzn.to/3SD4AEz) 
 * [Curtain/Cover switch](https://s.click.aliexpress.com/e/_A3RoUP)
-* Adaprox Fingerbot: [Buy at AliExpress](https://s.click.aliexpress.com/e/_De5d1tX)
+* Adaprox Fingerbot: [Buy at AliExpress](https://s.click.aliexpress.com/e/_oEon3d7)
 
 ## Infrared Remote Control
 * Broadlink RM Mini: [Buy at Amazon US](https://amzn.to/3AlquUw) - [Buy at Amazon UK](https://amzn.to/3UUxZ07) - [Buy at Amazon NL](https://amzn.to/4bz54nR) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DDXp1cj)
