@@ -78,7 +78,8 @@ As an Amazon Associate, I earn from qualifying purchases.
 ## Vacuum cleaners
 * Roborock S5 Max: [Buy at AliExpress](https://s.click.aliexpress.com/e/_Dd7MQ2l)
 * Roborock S7: [Buy at AliExpress](https://s.click.aliexpress.com/e/_DBgZjW3)
-* SwitchBot K10+ | Discount 20% off: [Buy at Amazon US](https://amzn.to/46se76E) - [Buy at Amazon UK](https://amzn.to/3SRsEWl) - [Buy at Amazon NL](https://amzn.to/46jDjMf)
+* SwitchBot K10+: [Buy at Amazon US](https://amzn.to/46se76E) - [Buy at Amazon UK](https://amzn.to/3SRsEWl) - [Buy at Amazon NL](https://amzn.to/46jDjMf)
+* SwitchBot S10: [Buy at Switchbot store](https://bit.ly/3UTBdAA) - [Buy at Amazon US](https://amzn.to/3WBBBEL) - [Buy at Amazon Co UK](https://youtu.be/CApnmv52glI) - [Buy at Amazon NL](https://youtu.be/CApnmv52glI)
 
 ## Curtains
 * SwitchBot Blind Tilt: [Buy at Amazon US](https://amzn.to/3no3wsx) - [Buy at Amazon UK](https://amzn.to/3SLcMUY) - [Buy at Amazon NL](https://amzn.to/3TLKhVF)
