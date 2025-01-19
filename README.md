@@ -62,7 +62,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * Adaprox Fingerbot: [Buy at AliExpress](https://s.click.aliexpress.com/e/_oEon3d7)
 
 ## Infrared Remote Control
-* Broadlink RM Mini: [Buy at Amazon US](https://amzn.to/3AlquUw) - [Buy at Amazon UK](https://amzn.to/3UUxZ07) - [Buy at Amazon NL](https://amzn.to/4bz54nR) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_DDXp1cj)
+* Broadlink RM Mini: [Buy at Amazon US](https://amzn.to/3AlquUw) - [Buy at Amazon UK](https://amzn.to/3UUxZ07) - [Buy at Amazon NL](https://amzn.to/4bz54nR) - [Buy at AliExpress](https://s.click.aliexpress.com/e/_oC75WP3)
 
 ## Cameras
 * Reolink Video Doorbell WiFi: [Buy at Reolink](https://tidd.ly/3YE7X0e) - [Buy at Amazon US](https://amzn.to/3wJhneb) - [Buy at Amazon UK](https://amzn.to/3SSSuZA) - [Buy at Amazon NL](https://amzn.to/43I5Pr9)
