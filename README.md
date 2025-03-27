@@ -51,6 +51,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 * [BME280 Temperature/Humidity/Pressure sensor](https://s.click.aliexpress.com/e/_DDZzsxR)
 * Philips Motion Sensor: [Buy at Amazon US](https://amzn.to/48dEQED) - [Buy at Amazon UK](https://amzn.to/48iYEGK) - [Buy at Amazon NL](https://amzn.to/49wxdu1)
 * [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
+* [Plant Monitor Zigbee](https://s.click.aliexpress.com/e/_okR3Uad)
 
 ## Switches
 * [Blitzwolf SP-15 Zigbee Switch with Power Metering](https://s.click.aliexpress.com/e/_DCVSyih)
